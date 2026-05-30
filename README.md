@@ -1,4 +1,4 @@
-## Hey, I'm Justin 👋
+# Hey, I'm Justin 👋
 
 Software Engineer focused on full-stack web development and building things that actually work.
 
@@ -16,7 +16,7 @@ I'm an aspiring Software Engineer based in New York with a background in full-st
 
 I'm drawn to problems that require both solid engineering and clear thinking. Whether it's a clean REST API, a data-driven UI, or a well-structured game system, I care about writing code that's readable, purposeful, and production-minded
 
---
+---
 
 ## 🔨 Currently Building
 
@@ -24,7 +24,7 @@ I'm drawn to problems that require both solid engineering and clear thinking. Wh
 - **[Portfolio projects](https://github.com/JustinKB23?tab=repositories)** — expanding into React + FastAPI and PostgreSQL-backed apps
 - **AWS Cloud Practitioner** + CompTIA A+ / Network+ / Security+ certifications
 
---
+---
 
 ## 🗂 Projects
 
@@ -34,6 +34,12 @@ I'm drawn to problems that require both solid engineering and clear thinking. Wh
 | [ItineraryPlanner](https://github.com/JustinKB23/ItineraryPlanner) | Desktop trip planner with event scheduling and date tracking | CSS / HTML |
 | [ai-dodgeball-fsm](https://github.com/JustinKB23/ai-dodgeball-fsm) | Unity AI agents with finite state machines and NavMesh throw logic | C# / Unity |
 | [MathQuest](https://github.com/JustinKB23/MathQuest) | 2D educational game with 3 grade-level difficulties | Python |
+
+---
+
+##
+
+`React` `Node.js` `Python` `JavaScript` `Express` `MongoDB` `PostgreSQL` `C#` `Java` `AWS` `Unity` `Git`
 
 <!--
 Software Engineer focused on full-stack web development and building
