@@ -37,9 +37,27 @@ I'm drawn to problems that require both solid engineering and clear thinking. Wh
 
 ---
 
-##
+## 🛠 Stack
 
 `React` `Node.js` `Python` `JavaScript` `Express` `MongoDB` `PostgreSQL` `C#` `Java` `AWS` `Unity` `Git`
+
+--- 
+
+## 📬 Let's connect
+
+<div align="center">
+  <a href="mailto:broughaljustin@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to%20Full--Time%20Roles-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/justin-broughal-836b22233">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:broughaljustin@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-broughaljustin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
 
 <!--
 Software Engineer focused on full-stack web development and building
