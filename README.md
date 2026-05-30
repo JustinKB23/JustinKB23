@@ -24,6 +24,17 @@ I'm drawn to problems that require both solid engineering and clear thinking. Wh
 - **[Portfolio projects](https://github.com/JustinKB23?tab=repositories)** — expanding into React + FastAPI and PostgreSQL-backed apps
 - **AWS Cloud Practitioner** + CompTIA A+ / Network+ / Security+ certifications
 
+--
+
+## 🗂 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Trip-Planner-MERN](https://github.com/JustinKB23/Trip-Planner-MERN) | Cloud-based itinerary app with multi-trip and event management | JavaScript / MERN |
+| [ItineraryPlanner](https://github.com/JustinKB23/ItineraryPlanner) | Desktop trip planner with event scheduling and date tracking | CSS / HTML |
+| [ai-dodgeball-fsm](https://github.com/JustinKB23/ai-dodgeball-fsm) | Unity AI agents with finite state machines and NavMesh throw logic | C# / Unity |
+| [MathQuest](https://github.com/JustinKB23/MathQuest) | 2D educational game with 3 grade-level difficulties | Python |
+
 <!--
 Software Engineer focused on full-stack web development and building
 **JustinKB23/JustinKB23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
